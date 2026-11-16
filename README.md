@@ -1,28 +1,21 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rassyy/rassyy/main/assets/header.svg" alt="Rasya — Network & Web" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Jaringan+dulu%2C+web+juga%3A+DNS%2C+proxy%2C+deploy%2C+beres.;Bikin+homelab+sendiri+biar+gak+selalu+sewa+VPS.;Laravel+%2B+Vue+%2B+Astro%2C+kadang+Flutter+kalau+lagi+rajin.;Belajar+terus%2C+bikin+terus." alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/rassyy/rassyy/main/assets/header.svg" alt="Rasya" width="100%" />
 </div>
 
 <p align="center">
-  <a href="mailto:rasyagame06@gmail.com"><img src="https://img.shields.io/badge/Email-rasyagame06%40gmail.com-58a6ff?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/rassyy?tab=followers"><img src="https://img.shields.io/github/followers/rassyy?label=Follow&style=flat-square&logo=github&color=181717" alt="Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=rassyy&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="mailto:rasyagame06@gmail.com"><img src="https://img.shields.io/badge/rasyagame06%40gmail.com-58a6ff?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/rassyy?tab=followers"><img src="https://img.shields.io/github/followers/rassyy?label=follow&style=flat-square&logo=github&color=181717" alt="Followers" /></a>
 </p>
 
----
+## Tentang Saya
 
-## 👋 Tentang Saya
+- Fokus di **jaringan**: routing, monitoring, dan infrastruktur server.
+- Web development juga jalan — Laravel, Vue, Astro, TypeScript.
+- Mobile pakai **Flutter** kalau projectnya butuh aplikasi.
+- Infrastruktur sendiri dijalankan di **Proxmox** (LXC, Docker, Tailscale, Cloudflare Tunnel).
+- Sekarang kuliah dan magang. Catatan belajar dan hasil kerja didokumentasikan di repo.
 
-- 🔌 Fokus utama di **jaringan** — routing, monitoring, dan bikin infrastruktur kecil yang jalan rapi (homelab sendiri, bukan cuma teori di kelas).
-- 🌐 Tapi **web dev** juga jalan: Laravel, Vue, Astro, TypeScript — dari landing page sampai aplikasi yang dipakai orang.
-- 📱 Kadang main **Flutter** juga (`moneva` — manajemen uang dengan rekomendasi AI).
-- 🧪 Suka ngoprek: Docker, reverse proxy, tunnel, VPN mesh. Daripada bayar VPS, mending bikin sendiri di Proxmox.
-- 📚 Kuliah + magang, sambil semua yang dipelajari didokumentasiin biar gak ilang.
-
-## 🖥️ `$ whoami`
+## `$ whoami`
 
 ```bash
 rasy@homelab
@@ -37,36 +30,17 @@ Contact   : rasyagame06@gmail.com
 ─────────────────────────────────────────────
 ```
 
-## 📊 Statistik
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rassyy&theme=tokyonight" alt="Profile Details" width="100%" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rassyy&theme=tokyonight" alt="Repos per Language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rassyy&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rassyy&theme=tokyonight&hide_border=true" alt="Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rassyy&theme=tokyo-night&hide_border=true&area=true&custom_title=Aktivitas%20Kontribusi" alt="Activity Graph" width="100%" />
-</div>
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rassyy/rassyy/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rassyy/rassyy/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/rassyy/rassyy/output/github-snake.svg" alt="github contribution snake" width="100%" />
+    <img src="https://raw.githubusercontent.com/rassyy/rassyy/output/github-snake.svg" alt="contribution snake" width="100%" />
   </picture>
 </div>
 
-## 🧰 Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,php,laravel,vue,ts,js,dart,flutter,astro,nodejs,mysql,postgres,nginx,git,github,bash&perline=9" alt="Tech Stack" />
@@ -83,44 +57,20 @@ Contact   : rasyagame06@gmail.com
   <img src="https://img.shields.io/badge/Coolify-6B16ED?style=flat-square&logo=laravel&logoColor=white" alt="Coolify" />
 </p>
 
-## 💼 Proyek
-
-| Proyek | Deskripsi | Stack |
-| :--- | :--- | :--- |
-| 🏠 [**private-cloud-homeserver**](https://github.com/rassyy/private-cloud-homeserver) | Private storage buat homeserver — upload, kelola file, jalan di container sendiri. | Vue, Laravel, Docker |
-| 📄 [**dokumentasi-magang-diskominfo**](https://github.com/rassyy/dokumentasi-magang-diskominfo) | Web dokumentasi magang: monitoring jaringan, server, dan alur kerja lapangan — dari catatan mentah jadi rapi. | Astro, TypeScript, Docker |
-| 💰 [**moneva**](https://github.com/rassyy/moneva) | Manajemen keuangan dengan rekomendasi AI. Proyek mobile yang paling serius gua kerjain. | Flutter, Dart |
-| 📚 [**elibrary-laravelv2**](https://github.com/rassyy/elibrary-laravelv2) | Aplikasi perpustakaan digital — katalog, peminjaman, panel admin. | Laravel, Blade, MySQL |
-| 🎓 [**sistem-evaluasi-akademik**](https://github.com/rassyy/sistem-evaluasi-akademik) | Sistem evaluasi akademik untuk kebutuhan kampus. | Laravel, Blade |
-| 💸 [**financial-manager**](https://github.com/rassyy/financial-manager) | Manajemen keuangan versi web, eksperimen Vue + Laravel. | Vue, PHP |
-| 🧊 [**audsy-landpg**](https://github.com/rassyy/audsy-landpg) | Landing page produk dengan model 3D — belajar bikin web yang gak flat. | TypeScript, Three.js |
-
-## 🏠 Homelab
+## Homelab
 
 <table>
-  <tr>
-    <td><b>Hypervisor</b></td><td>Proxmox VE + LXC container (hemat RAM, hemat listrik)</td>
-  </tr>
-  <tr>
-    <td><b>Network</b></td><td>Tailscale mesh, Cloudflare Tunnel, Nginx Proxy Manager, Traefik</td>
-  </tr>
-  <tr>
-    <td><b>Apps</b></td><td>Coolify (deploy), n8n (automation), Uptime Kuma (monitoring), Nextcloud-style storage</td>
-  </tr>
-  <tr>
-    <td><b>Rule</b></td><td>Semua pakai HTTPS, akses internal lewat VPN — port publik seminimal mungkin</td>
-  </tr>
+  <tr><td><b>Hypervisor</b></td><td>Proxmox VE + LXC container</td></tr>
+  <tr><td><b>Network</b></td><td>Tailscale mesh, Cloudflare Tunnel, Nginx Proxy Manager, Traefik</td></tr>
+  <tr><td><b>Apps</b></td><td>Coolify (deploy), n8n (automation), Uptime Kuma (monitoring), private storage</td></tr>
+  <tr><td><b>Aturan</b></td><td>Semua lewat HTTPS, akses internal via VPN, port publik seminimal mungkin</td></tr>
 </table>
 
-## 📫 Mari Terhubung
+## Kontak
 
 <p align="center">
-  <a href="mailto:rasyagame06@gmail.com"><img src="https://img.shields.io/badge/Email-rasyagame06%40gmail.com-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/rassyy"><img src="https://img.shields.io/badge/GitHub-rassyy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<p align="center">
-  <i>Kalau mau diskusi jaringan, homelab, atau web dev — email aja. Gua seneng ngobrol soal infra.</i>
+  <a href="mailto:rasyagame06@gmail.com"><img src="https://img.shields.io/badge/Email-rasyagame06%40gmail.com-58a6ff?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/rassyy"><img src="https://img.shields.io/badge/GitHub-rassyy-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:7ee787&height=110&section=footer" width="100%" alt="footer" />
