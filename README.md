@@ -2,11 +2,6 @@
   <img src="https://raw.githubusercontent.com/rassyy/rassyy/main/assets/header.svg" alt="Rasya" width="100%" />
 </div>
 
-<p align="center">
-  <a href="mailto:rasyagame06@gmail.com"><img src="https://img.shields.io/badge/rasyagame06%40gmail.com-58a6ff?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/rassyy?tab=followers"><img src="https://img.shields.io/github/followers/rassyy?label=follow&style=flat-square&logo=github&color=181717" alt="Followers" /></a>
-</p>
-
 ## Tentang Saya
 
 - Fokus di **jaringan**: routing, monitoring, dan infrastruktur server.
