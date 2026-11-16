@@ -10,7 +10,6 @@
   <a href="mailto:rasyagame06@gmail.com"><img src="https://img.shields.io/badge/Email-rasyagame06%40gmail.com-58a6ff?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/rassyy?tab=followers"><img src="https://img.shields.io/github/followers/rassyy?label=Follow&style=flat-square&logo=github&color=181717" alt="Followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=rassyy&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Jaringan%20%26%20Web-7ee787?style=flat-square&logo=cisco&logoColor=white" alt="Focus" />
 </p>
 
 ---
@@ -41,8 +40,12 @@ Contact   : rasyagame06@gmail.com
 ## 📊 Statistik
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rassyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rassyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rassyy&theme=tokyonight" alt="Profile Details" width="100%" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rassyy&theme=tokyonight" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rassyy&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 <div align="center">
