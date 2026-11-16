@@ -56,6 +56,16 @@ Contact   : rasyagame06@gmail.com
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rassyy&theme=tokyo-night&hide_border=true&area=true&custom_title=Aktivitas%20Kontribusi" alt="Activity Graph" width="100%" />
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rassyy/rassyy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rassyy/rassyy/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/rassyy/rassyy/output/github-snake.svg" alt="github contribution snake" width="100%" />
+  </picture>
+</div>
+
 ## 🧰 Tech Stack & Tools
 
 <div align="center">
